@@ -2,7 +2,7 @@
 This project demonstrates to set up a production-grade AWS Virtual Private Cloud (VPC) with proper network isolation, routing, and secure access architecture. 
 Key Implementations
 
-1.Multi-AZ Setup for High Availability
+   1.Multi-AZ Setup for High Availability
 
    Deployed EC2 instances in two Availability Zones using an Auto Scaling Group (ASG) to ensure fault tolerance and load distribution
     
